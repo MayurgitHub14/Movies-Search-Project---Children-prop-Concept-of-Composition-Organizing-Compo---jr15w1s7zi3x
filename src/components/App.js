@@ -34,6 +34,4 @@ const App = () => {
     );
 };
 
-// abc
-
 export default App;
